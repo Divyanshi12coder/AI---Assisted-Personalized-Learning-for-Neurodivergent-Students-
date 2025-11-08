@@ -52,7 +52,7 @@
 
 | Layer        | Technology Options                          |
 |--------------|---------------------------------------------|
-| Frontend     | HTML, CSS, JavaScript, ReactJS              |
+| Frontend     | ReactJS              |
 | Backend (MVP)| Node.js                                     |
 | AI/NLP       | OpenAI GPT API                              |
 | Database     | Firebase (beginner-friendly)                |
@@ -107,3 +107,4 @@
 - Personalized, gamified education
 - Scalable platform for future enhancements
 
+---
