@@ -12,7 +12,7 @@
 
 ## 🚀 Key Features
 
-### ✍️ Adaptive Text Formatting
+### ✍️ Adaptive Text Formatting 
 - ✅ Dyslexia-friendly fonts (e.g., OpenDyslexic)
 - ✅ Adjustable font size, line spacing, and background color
 - ✅ Reading modes: dark mode, distraction-free mode
