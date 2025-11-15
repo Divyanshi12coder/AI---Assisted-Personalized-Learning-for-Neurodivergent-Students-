@@ -19,7 +19,7 @@
 
 ### 🤖 AI-Powered Focus Support
 - ⏱ Pomodoro-style study/break intervals
-- 🔔 Visual/auditory reminders for attention checks
+- 🔔 Visual/auditory reminders for attention checks 
 - 💬 GPT-based assistant for focus encouragement
 
 ### 🕹️ Gamification
